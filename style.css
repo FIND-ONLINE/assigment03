@@ -1,0 +1,26 @@
+
+        p {
+            font-size: 20px;
+        }
+
+
+
+  
+  /* Style for the menu dropdown */
+  .navbar-default .navbar-collapse {
+    background-color: lightblue; /* Change this to your desired background color */
+  }
+
+
+          /* Styling for the tall section */
+        .tall-section {
+            height: 2000px; /* Adjust the height as needed */
+            background-color: greenyellow; /* Background color for the tall section */
+        }
+  
+        /* Styling for the tall section */
+        .tall-section {
+            height: 2000px; /* Adjust the height as needed */
+            background-color: greenyellow; /* Background color for the tall section */
+        }
+    
